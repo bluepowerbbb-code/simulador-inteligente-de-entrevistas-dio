@@ -144,17 +144,16 @@ Avaliação técnica personalizada
 
 ---
 
-🔬 Comparação Arquitetural
+## Comparação Arquitetural
 
-Critério	Modelo Fixo	Modelo Dinâmico
-
-Controle de Fluxo	Alto	Moderado
-Adaptabilidade	Baixa	Alta
-Complexidade	Baixa	Alta
-Previsibilidade	Alta	Média
-Sofisticação de Prompt	Média	Alta
-Simulação Realista	Média	Alta
-
+| Critério | Modelo Fixo | Modelo Dinâmico |
+|----------|--------------|-----------------|
+| Controle de Fluxo | Alto | Moderado |
+| Adaptabilidade | Baixa | Alta |
+| Complexidade | Baixa | Alta |
+| Previsibilidade | Alta | Média |
+| Sofisticação de Prompt | Média | Alta |
+| Simulação Realista | Média | Alta |
 
 
 ---
